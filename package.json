@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://16.171.60.189:8081/repository/nodejs-repo/"
+    "registry": "http://13.48.133.105:8081/repository/nodejs-repo/"
   },
   
   "scripts": {
